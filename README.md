@@ -17,7 +17,7 @@
 - **ОС:** Linux (Ubuntu/Debian)
 
 ### 🖥️ **Веб-интерфейс**
-- **Фронтенд:** HTML5, CSS3, JavaScript
+- **Фронтенд:** HTML5, CSS3
 - **MQTT в браузере:** MQTT.js (WebSocket)
 - **Хранение:** localStorage для кэширования данных
 - **Адаптивный дизайн:** CSS Grid/Flexbox
